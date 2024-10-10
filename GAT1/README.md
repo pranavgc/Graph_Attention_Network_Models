@@ -25,3 +25,4 @@ We aggregate the messages either by concatenating, summation or mean to get the 
     h_{v}^{(l)}=AGG(h_{v}^{(l)}[1],h_{v}^{(l)}[2],h_{v}^{(l)}[3])
 
 This network allows us to dynamically allot different importance to neighbouring nodes in the graph in a relatively computationally efficient manner.
+This model Contains Two Head Functions.
